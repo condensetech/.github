@@ -1,4 +1,7 @@
-![CoNDENSE.tech, Claude and AWS partner, Milan](header.png)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="header.png">
+  <img src="header-animated.webp" alt="CoNDENSE.tech, Claude and AWS partner, Milan">
+</picture>
 
 We build and operate AI agents, cloud-native applications, and the platforms behind them. We are a software engineering team based in Milan, Italy, working across agentic engineering, AWS, and platform engineering.
 
