@@ -16,6 +16,7 @@ These repositories share reusable tools and implementation examples from our wor
 ### AI agents and tools
 
 - [Clockify MCP server](https://github.com/condensetech/clockify-mcp-server), a local MCP server for logging and managing time entries, with timezone handling and explicit tool schemas.
+- [EU AI labelling](https://github.com/condensetech/eu-ai-labelling), a Claude Code and Codex plugin that applies the official EU Icons as visible labels on AI-generated or AI-modified images, videos, documents, and sites, following Article 50(4) of the EU AI Act. Not affiliated with the EU and not legal advice.
 - [Hermes on Amazon Bedrock AgentCore](https://github.com/condensetech/bedrock-hermes-agent), our extension of an AWS sample, adding integrations, recurring tasks, and operational instrumentation. An experimental deployment example to inspect and adapt.
 
 ### AWS and platform engineering
